@@ -17,5 +17,5 @@ window.addEventListener("DOMContentLoaded",() => {
   forms(modalState);
   timer(".container1", deadline);
   images();
-  let i = "Kamran new complete new Project";
+  let i = "Kamran new complete new";
 });
